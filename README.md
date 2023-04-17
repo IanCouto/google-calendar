@@ -20,5 +20,5 @@ You will need to Authorize the app with Google add grant all permissions such th
 
 Shoot a mail to `icoutodepaula@gmail.com` if you need more help.
 
-![Alt text](src\assets\md\screenshot.png?raw=true "App")
-![Alt text](src\assets\md\screenshot1.png?raw=true "Calendar")
+<img src="src\assets\md\screenshot.png" alt="App Screenshot" title="Screenshot">
+<img src="src\assets\md\screenshot1.png" alt="App Screenshot" title="Screenshot">
